@@ -9,11 +9,11 @@ export default function CardContactUs()
                 <div className="flex flex-col justify-center mt-2 pt-2 pb-4">
                     <p className="font-light text-[24px] text-center">Reach us here</p>
                     <div className="flex justify-center gap-5 mt-2 pt-2">
-                        <Link href="#" className="hover:-translate-y-1 transition">
+                        <Link href="https://x.com/itsmenopalbah" className="hover:-translate-y-1 transition">
                             <Image src={"/image/x-white.png"} alt="" height={30} width={30}></Image>
                         </Link>
                         <p className="text-[20px]"> | </p> 
-                        <Link href="#" className="hover:-translate-y-1 transition">
+                        <Link href="https://www.instagram.com/mnaufalbah/" className="hover:-translate-y-1 transition">
                             <Image src={"/image/Instagram-white.png"} alt="" height={30} width={30}></Image>   
                         </Link>
                     </div>
