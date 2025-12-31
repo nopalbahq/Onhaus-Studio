@@ -14,7 +14,7 @@ export default function CardContactUs()
                         </Link>
                         <p className="text-[20px]"> | </p> 
                         <Link href="#" className="hover:-translate-y-1 transition">
-                            <Image src={"/image/instagram-white.png"} alt="" height={30} width={30}></Image>   
+                            <Image src={"/image/Instagram-white.png"} alt="" height={30} width={30}></Image>   
                         </Link>
                     </div>
                 </div>

@@ -18,7 +18,7 @@ export default async function Works()
             <div className="flex-1 overflow-y-scroll flex flex-col items-center pl-10 pr-10 pb-20 pt-2 mt-5">
                 {/* <h2 className="font-semibold text-left text-[24px]">OUR WORKS</h2> */}
                     <div className="pt-2 mt-5 rounded-lg ">
-                        <Image src="/image/ORBBY.PNG" height={1280} width={720} alt="" className="rounded-lg animate-fade-up"></Image>
+                        <Image src="/image/ORBBY.png" height={1280} width={720} alt="" className="rounded-lg animate-fade-up"></Image>
                     </div>
                     <div className="animate-fade-up [animation-delay:0.5s] mt-10 hover:-translate-y-1 transition">
                         <Link href="https://nopalbah.itch.io/orbby" >
